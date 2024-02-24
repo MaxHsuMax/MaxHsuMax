@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaxHsuMax
 - 👀 I’m interested in ... Machine Learning and LLMs
-- 🌱 I’m currently learning ... Python
+- 🌱 I’m currently learning ... Python and C++
 - 📫 How to reach me ... hsu.maximus@gmail.com
 
 <!---
